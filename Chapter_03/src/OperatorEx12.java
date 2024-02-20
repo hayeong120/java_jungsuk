@@ -7,7 +7,7 @@ public class OperatorEx12 {
 		char c2 = c1;
 		char c3 = ' ';
 		
-		int i = c1 + 1;
+		int i = c1 + 1; 
 		
 		c3 = (char)(c1 + 1);
 		c2++;

@@ -6,7 +6,8 @@ public class OperatorEx7 {
 		byte a = 10;
 		byte b = 30;
 		byte c = (byte)(a*b);
-		System.out.println(c);
+		
+		System.out.println(c); 
 
 	}
 

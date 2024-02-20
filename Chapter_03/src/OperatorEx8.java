@@ -8,7 +8,7 @@ public class OperatorEx8 {
 		
 		long c = (long)a * b;
 		
-		System.out.println(c);
+		System.out.println(c); 
 
 	}
 
