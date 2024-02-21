@@ -1,0 +1,10 @@
+
+public class OperatorEx28 {
+
+	public static void main(String[] args) {
+
+		
+
+	}
+
+}
